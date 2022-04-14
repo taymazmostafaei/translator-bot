@@ -1,0 +1,130 @@
+{
+    ["chat_updates"]=>
+    array(1) {
+      [0]=>
+      array(6) {
+        ["object_guid"]=>
+        string(32) "u0JPnw03c313e7ec2b6af2bfda2b5c31"
+        ["action"]=>
+        string(4) "Edit"
+        ["chat"]=>
+        array(7) {
+          ["count_unseen"]=>
+          int(1)
+          ["time_string"]=>
+          string(30) "164137386100000133314349078508"
+          ["last_message"]=>
+          array(6) {
+            ["message_id"]=>
+            string(15) "133314349078508"
+            ["type"]=>
+            string(4) "Text"
+            ["text"]=>
+            string(4) "زب"
+            ["author_object_guid"]=>
+            string(32) "u0JPnw03c313e7ec2b6af2bfda2b5c31"
+            ["is_mine"]=>
+            bool(false)
+            ["author_type"]=>
+            string(4) "User"
+          }
+          ["last_seen_peer_mid"]=>
+          string(15) "133314349078508"
+          ["status"]=>
+          string(6) "Active"
+          ["time"]=>
+          int(1641373861)
+          ["last_message_id"]=>
+          string(15) "133314349078508"
+        }
+        ["updated_parameters"]=>
+        array(7) {
+          [0]=>
+          string(15) "last_message_id"
+          [1]=>
+          string(12) "last_message"
+          [2]=>
+          string(6) "status"
+          [3]=>
+          string(11) "time_string"
+          [4]=>
+          string(12) "count_unseen"
+          [5]=>
+          string(18) "last_seen_peer_mid"
+          [6]=>
+          string(4) "time"
+        }
+        ["timestamp"]=>
+        string(10) "1641373861"
+        ["type"]=>
+        string(4) "User"
+      }
+    }
+    ["message_updates"]=>
+    array(1) {
+      [0]=>
+      array(9) {
+        ["message_id"]=>
+        string(15) "133314349078508"
+        ["action"]=>
+        string(3) "New"
+        ["message"]=>
+        array(7) {
+          ["message_id"]=>
+          string(15) "133314349078508"
+          ["text"]=>
+          string(4) "زب"
+          ["time"]=>
+          string(10) "1641373861"
+          ["is_edited"]=>
+          bool(false)
+          ["type"]=>
+          string(4) "Text"
+          ["author_type"]=>
+          string(4) "User"
+          ["author_object_guid"]=>
+          string(32) "u0JPnw03c313e7ec2b6af2bfda2b5c31"
+        }
+        ["updated_parameters"]=>
+        array(0) {
+        }
+        ["timestamp"]=>
+        string(10) "1641373861"
+        ["prev_message_id"]=>
+        string(15) "133313348336508"
+        ["object_guid"]=>
+        string(32) "u0JPnw03c313e7ec2b6af2bfda2b5c31"
+        ["type"]=>
+        string(4) "User"
+        ["state"]=>
+        string(10) "1641373801"
+      }
+    }
+    ["show_notifications"]=>
+    array(1) {
+      [0]=>
+      array(6) {
+        ["notification_id"]=>
+        string(49) "n_u0JPnw03c313e7ec2b6af2bfda2b5c31133314349078508"
+        ["type"]=>
+        string(7) "Message"
+        ["title"]=>
+        string(6) "Mother"
+        ["text"]=>
+        string(4) "زب"
+        ["image_file_id"]=>
+        int(20336344665296)
+        ["message_data"]=>
+        array(3) {
+          ["object_guid"]=>
+          string(32) "u0JPnw03c313e7ec2b6af2bfda2b5c31"
+          ["object_type"]=>
+          string(4) "User"
+          ["message_id"]=>
+          int(133314349078508)
+        }
+      }
+    }
+    ["user_guid"]=>
+    string(32) "u0VgkI0a38a0f8d6aafebfab39fa6726"
+  }

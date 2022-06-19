@@ -9,6 +9,7 @@ use Stichoza\GoogleTranslate\GoogleTranslate;
 //use Morilog\Jalali\Jalalian;
 $users = [];
 
+
 $account = new ShadPHP(989394097242); // Only without zero and with area code 98
 
 $account->onUpdate(function (array $update) use ($account) {

@@ -394,7 +394,7 @@ class ShadPHP
                     }
                 } catch (\WebSocket\ConnectionException $e) {
                     // Possibly log errors
-                    // print_r($e);
+                     print_r($e);
                 }
                 // $client->close();
             }
